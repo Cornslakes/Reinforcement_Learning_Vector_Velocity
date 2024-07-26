@@ -6,7 +6,7 @@ In diesem Projekt wurde ein Reinforcement Learning (RL) Agent entwickelt und opt
 
 ## Projektaufteilung
 
-Leonard --> Baseline Modelle und Projektbericht
+Leonard --> Baseline Modelle und Projektbericht <br>
 Steffen --> Hyperparameter Tuning
 
 ## Repository Übersicht
